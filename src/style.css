@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#main-content {
+  margin: 20% 20% 25% 20%;
+}
+
+#excuse-title {
+  width: 100%;
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+#excuse-body {
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: center;
+}
